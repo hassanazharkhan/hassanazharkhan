@@ -27,7 +27,7 @@ My name is Hassan Azhar Kahn and I am a Full Stack Developer and Open Source Con
   <a href="https://twitter.com/hassanazharkhan">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hassanazharkhan/">
+  <a href="https://www.linkedin.com/in/hassan-azhar-633b7434/">
     <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
