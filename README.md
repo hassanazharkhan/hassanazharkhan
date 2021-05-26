@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanazharkhan&count_private=true)
+![Hassan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanazharkhan&count_private=true&theme=dracula)
 
 
 <!--
