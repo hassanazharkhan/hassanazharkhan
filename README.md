@@ -36,4 +36,4 @@ My name is Hassan Azhar Kahn and I am a Full Stack Developer and Open Source Con
 
 ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanazharkhan&count_private=true&theme=vue-dark&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassanazharkhan&count_private=true&show_icons=true" />
