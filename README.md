@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hassan Azhar Kahn and I am a Full Stack Developer and Open Source Contributor from Pakistan. 
+My name is Hassan Azhar Khan and I am a Full Stack Developer and Open Source Contributor from Pakistan. 
 
 
 ---
