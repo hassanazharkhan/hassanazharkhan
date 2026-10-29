@@ -1,35 +1,21 @@
-### Hi there 👋
+# Hassan Azhar Khan
 
-My name is Hassan Azhar Khan and I am a Full Stack Developer and Open Source Contributor from Pakistan. 
+Forward Deployed Engineer and Founder of [Keytomic](https://keytomic.com) and [epicX](https://epicx.co.uk).
 
+I embed with teams to build AI agents, MCP integrations and production AI, inside their own stack. Building software since 2015.
 
----
+### What I'm building
+- **[Keytomic](https://keytomic.com)**: an AI SEO platform where one agent takes a site from keyword research to published, tracked articles. Its remote MCP server works in Claude, ChatGPT, Cursor and other AI assistants.
+- **[epicX](https://epicx.co.uk)**: pre-vetted engineers from Pakistan and South Africa, matched with startups within 48 hours, plus custom software development.
 
-### What do I do?
+### What I build with
+AWS (Lambda, Step Functions, EventBridge, DynamoDB), AWS CDK, Terraform, Kubernetes, TypeScript, Node.js, React, PostgreSQL, MCP, LangChain, LangGraph, pgvector, Claude, OpenAI.
 
-<p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-61DAFB?logo=docker&style=for-the-badge" />
-  <img alt="Node" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-61DAFB?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+### Open source
+Contributions to AWS CDK, Projen, LambdaAPI and DynamoDB OneTable.
 
----
-
-### Send me a message!
-
-- I am open for collaborations, so if you find my work interesting feel free to send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
-
-<p>
-  <a href="https://twitter.com/hassanazharkhan">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/hassan-azhar-633b7434/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
+### Find me
+- Website: https://hassanazharkhan.com
+- LinkedIn: https://www.linkedin.com/in/hassanazharkhan/
+- X: https://x.com/hassanazharkhan
+- Email: hassan.azhar@epicx.dev
